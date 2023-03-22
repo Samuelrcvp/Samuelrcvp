@@ -4,7 +4,7 @@
 <br>
 20 years old</p>
 <br>
-Studying second semester of Information Systems
+Studying third semester of Information Systems
 <br>
 at Pucminas university
 </p>
