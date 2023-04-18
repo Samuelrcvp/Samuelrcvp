@@ -8,6 +8,3 @@ Studying third semester of Information Systems
 <br>
 at Pucminas university
 </p>
-<p dir="auto">
-<strong>Certificates:</strong>
-</p>
