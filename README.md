@@ -4,7 +4,5 @@
 <br>
 21 years old</p>
 <br>
-Studying third semester of Information Systems
-<br>
-at Pucminas university
+Student studying Information Systems at PUC Minas University (Brazil).
 </p>
